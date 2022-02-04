@@ -1,4 +1,6 @@
-layout: page
+---
+layout: post
 title: "NEW PAGE"
-permalink: /docs/DoSpeedLimitsSaveLives/
+permalink: /NewPage/
+---
 # This is the new test page
