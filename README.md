@@ -1,2 +1,2 @@
-# CodeTheLawCanada.github.io
+# CodeTheLawCanada
 Test website 2
